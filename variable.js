@@ -1,4 +1,3 @@
-
 let name = "Justin combis";
 let whatDoYouWannaBecomeInYourLife = "programmer";
 let gender = "19";
